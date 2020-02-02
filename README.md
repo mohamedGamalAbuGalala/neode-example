@@ -1,6 +1,6 @@
 # Neode Example
 
-This repository contains an example project using the [Neode](http://github.com/adam-cowley/neode) package for NodeJS.
+This repository contains an example project using the [Neode](http://github.com/adam-cowley/neode) package for NodeJS.(please check this article https://medium.com/neo4j/interacting-with-neo4j-in-nodejs-using-the-neode-object-mapper-3d99cb324546)
 
 ## Models
 
